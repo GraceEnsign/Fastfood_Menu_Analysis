@@ -22,18 +22,27 @@ The requirements.txt contains the packages necessary for the project (Pandas, Nu
 
 <h3>Data Description</h3> 
 
-Acquired five dataframes containing the nutrition information for the menus of McDonalds, Burger King, Taco Bell, Wendys, and Panera Bread. All five dataframes are a csv file.  
+Acquired five dataframes containing the nutrition information for the menus of McDonalds, Burger King, Taco Bell, Wendys, and Panera Bread. All five dataframes are a csv file. 
+
+
+
+<h3>Dataframe Sources</h3>
+[McDonalds](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)
+[Burger King](https://company.bk.com/pdfs/nutrition.pdf)
+[Taco Bell](https://www.tacobell.com/nutrition/info)
+[Wendy's](https://www.wahazel.com/hazelcares/pdf/fastfoodnutrition/wendys_nutrition.pdf)
+[Panera Bread](https://www.panerabread.com/content/dam/panerabread/documents/nutrition/Panera-Nutrition.pdf)
 
   
 
 <h3>Features Included</h3> 
 
-<ol><li>Read Data In- Read in data from a local csv.</li> 
+<ol><li>Read Data In- Read in data from a local csv. (Cell 2)</li> 
 
-  <li>Manipulate and Clean Data- Used Pandas and NumPy to remove null values, organize columns, and assign variables.</li> 
+  <li>Manipulate and Clean Data- Used Pandas and NumPy to remove null values, organize columns, and assign variables. (Cells 3-6) </li> 
 
-  <li>Analyze Data- Created custom functions to operate data.</li> 
+  <li>Analyze Data- Created custom functions to operate data. (Cells 7-10, 12) </li> 
 
-  <li>Visualize Data- Created two plots with Matplotlib.</li> 
+  <li>Visualize Data- Created two plots with Matplotlib. (Cells 11, 13-14)</li> 
 
-  <li>Interpret Data- Added markdown cells in Jupyter Notebook.</li><ol> 
+  <li>Interpret Data- Added markdown cells in Jupyter Notebook. (Between each cell throughout project)</li><ol> 
