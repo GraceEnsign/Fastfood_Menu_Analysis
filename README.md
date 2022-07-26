@@ -27,11 +27,11 @@ Acquired five dataframes containing the nutrition information for the menus of M
 
 
 <h3>Dataframe Sources</h3>
-<p>[McDonalds](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)<br>
-[Burger King](https://company.bk.com/pdfs/nutrition.pdf)<br>
-[Taco Bell](https://www.tacobell.com/nutrition/info)<br>
-[Wendy's](https://www.wahazel.com/hazelcares/pdf/fastfoodnutrition/wendys_nutrition.pdf)<br>
-[Panera Bread](https://www.panerabread.com/content/dam/panerabread/documents/nutrition/Panera-Nutrition.pdf)</p>
+<p><a href="https://www.kaggle.com/datasets/mcdonalds/nutrition-facts" target="_top">McDonalds</a><br>
+<a href="https://company.bk.com/pdfs/nutrition.pdf" target="_top">Burger King</a><br>
+<a href="https://www.tacobell.com/nutrition/info" target="_top">Taco Bell</a><br>
+<a href="https://www.wahazel.com/hazelcares/pdf/fastfoodnutrition/wendys_nutrition.pdf" target="_top">Wendys</a><br>
+<a href="https://www.panerabread.com/content/dam/panerabread/documents/nutrition/Panera-Nutrition.pdf" target="_top">Panera Bread</a></p>
 
   
 
