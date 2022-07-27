@@ -8,15 +8,20 @@ Comparing the average calories in four perceived unhealthy fastfood restaurants 
 
   
 
-<h3>Instructions to Run Project</h3> 
+<h3>Instructions to Run Project/Install Packages</h3> 
 
-Project can be run by cloning the repository. This can be done by navigating to the Git command prompt, and typing the following: <blockquote> git clone https://github.com/GraceEnsign/Fastfood_Menu_Analysis</blockquote> 
-
+<ol><li>Clone the repository by typing the following: <blockquote> git clone https://github.com/GraceEnsign/Fastfood_Menu_Analysis</blockquote> </li>
+<li>Run the following to install required packages: <blockquote>pip install -r requirements.txt</blockquote> </li>
+<li>Open the Menu_Analysis.ipynb once in the main directory with Jupyter Notebook, or open with editor.</li></ol>
   
+
 
 <h3>Relevant Packages</h3> 
 
-The requirements.txt contains the packages necessary for the project (Pandas, NumPy, Matplotlib). To install the packages, navigate to the Git command prompt, and type the following: <blockquote>pip install -r requirements.txt</blockquote> 
+Python 3.9.7 <br>
+Matplotlib 3.4.2 <br>
+Pandas 1.3.4 <br>
+NumPy 1.20.3 <br>
 
   
 
@@ -45,4 +50,9 @@ Acquired five dataframes containing the nutrition information for the menus of M
 
   <li>Visualize Data- Created two plots with Matplotlib. (Cells 11, 13-14)</li> 
 
-  <li>Interpret Data- Added markdown cells in Jupyter Notebook. (Between each cell throughout project)</li><ol> 
+  <li>Interpret Data- Added markdown cells in Jupyter Notebook. (Between each cell throughout project)</li></ol> 
+
+
+
+<h3>Changes from Project Plan</h3>
+In the initial project plan I had planned to exclude drinks from the menu analysis. However, drinks became necessary to include due to incorporating shakes, smoothies, etc.
