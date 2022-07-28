@@ -19,6 +19,7 @@ Comparing the average calories in four perceived unhealthy fastfood restaurants 
 <h3>Relevant Packages</h3> 
 
 Python 3.9.7 <br>
+Jupyter Notebook <br>
 Matplotlib 3.4.2 <br>
 Pandas 1.3.4 <br>
 NumPy 1.20.3 <br>
